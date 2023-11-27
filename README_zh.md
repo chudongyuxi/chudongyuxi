@@ -5,7 +5,7 @@
 ## 关于我
 
 - **姓名：** 云梦official
-- **性别：** 男
+- **性别：** 女
 - **位置：** 中国，上海，浦东新区
 - **博客：** (https://blog.cichat.cn)
 - **邮箱：** rainraverofficial@chudongyuxi.cc
