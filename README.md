@@ -7,7 +7,7 @@ Hey there! 👋 I'm 云梦official, a passionate male programmer residing in the
 - **Name:** 云梦official
 - **Gender:** Male
 - **Location:** Shanghai, China - Pudong New District
-- **Blog:** [Cichat's Coding Corner](https://blog.cichat.cn)
+- **Blog:** (https://blog.cichat.cn)
 - **Email:** rainraverofficial@chudongyuxi.cc
 
 ## What Makes Me Tick 🚀
