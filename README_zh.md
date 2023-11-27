@@ -7,8 +7,8 @@
 - **姓名：** 云梦official
 - **性别：** 男
 - **位置：** 中国，上海，浦东新区
-- **博客：** [Cichat的编程角落](https://blog.cichat.cn)
-- **邮箱：** me@example.com
+- **博客：** (https://blog.cichat.cn)
+- **邮箱：** rainraverofficial@chudongyuxi.cc
 
 ## 我的编程之旅 🚀
 
@@ -17,10 +17,10 @@
 ## 我的数字天地 🎮
 
 ### 博客乐趣
-深入我思想和经历的深渊，访问[Cichat的编程角落](https://blog.cichat.cn)。从编程冒险到技术沉思，这是我数字化的天堂。
+深入我思想和经历的深渊，访问[(https://blog.cichat.cn)。从编程冒险到技术沉思，这是我数字化的天堂。
 
 ### 随时给我发邮件 📧
-有问题、建议，或者只是想聊聊最新的科技趋势？给我发封邮件到 me@example.com 吧。我随时准备好和你进行一场关于技术的对话。
+有问题、建议，或者只是想聊聊最新的科技趋势？给我发封邮件到 rainraverofficial@chudongyuxi.cc 吧。我随时准备好和你进行一场关于技术的对话。
 
 ## 爱好和更多 🌈
 
