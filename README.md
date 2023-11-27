@@ -20,7 +20,7 @@ I breathe and dream in code. My fingers dance on the keyboard, weaving magic int
 Dive into the depths of my thoughts and experiences at [Cichat's Coding Corner](https://blog.cichat.cn). From coding adventures to tech musings, it's my digital haven.
 
 ### Email Me Anytime 📧
-Got questions, suggestions, or just want to chat about the latest tech trends? Shoot me an email at me@example.com. I'm always up for a good tech tête-à-tête.
+Got questions, suggestions, or just want to chat about the latest tech trends? Shoot me an email at rainraverofficial@chudongyuxi.cc. I'm always up for a good tech tête-à-tête.
 
 ## Hobbies and Beyond 🌈
 
