@@ -1,7 +1,7 @@
 ![awa](./IMG_20231128_170156.png)
-# 云梦official's GitHub 之旅 ✨
+# 雨汐's GitHub 之旅 ✨
 
-Hey there! 👋 I'm 云梦official, a passionate girl programmer residing in the vibrant city of Shanghai, specifically in the heart of Pudong's new district. Welcome to my GitHub abode, where creativity meets coding!
+Hey there! 👋 I'm 雨汐, a passionate girl programmer residing in the vibrant city of Shanghai, specifically in the heart of Pudong's new district. Welcome to my GitHub abode, where creativity meets coding!
 
 ## About Me
 
@@ -9,7 +9,7 @@ Hey there! 👋 I'm 云梦official, a passionate girl programmer residing in the
 - **Gender:** Girl
 - **Location:** Shanghai, China - Pudong New District
 - **Blog:** (https://blog.cichat.cn)
-- **Email:** rainraverofficial@chudongyuxi.cc
+- **Email:** yuxirainraver@starmoon.top
 
 ## What Makes Me Tick 🚀
 
@@ -21,7 +21,7 @@ I breathe and dream in code. My fingers dance on the keyboard, weaving magic int
 Dive into the depths of my thoughts and experiences at [Cichat's Coding Corner](https://blog.cichat.cn). From coding adventures to tech musings, it's my digital haven.
 
 ### Email Me Anytime 📧
-Got questions, suggestions, or just want to chat about the latest tech trends? Shoot me an email at rainraverofficial@chudongyuxi.cc. I'm always up for a good tech tête-à-tête.
+Got questions, suggestions, or just want to chat about the latest tech trends? Shoot me an email at yuxirainraver@starmoon.top. I'm always up for a good tech tête-à-tête.
 
 ## Hobbies and Beyond 🌈
 
