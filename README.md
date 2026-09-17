@@ -5,11 +5,11 @@ Hey there! 👋 I'm 雨汐, a passionate girl programmer residing in the vibrant
 
 ## About Me
 
-- **Name:** 云梦official
+- **Name:** 雨汐rainraver & 暮稚 Chloe Lily Mu & 星奈铃 RinShiona Xing & 月城心音 TsukishiroKokone
 - **Gender:** Girl
-- **Location:** Shanghai, China - Pudong New District
 - **Blog:** (https://blog.cichat.cn)
-- **Email:** yuxirainraver@starmoon.top
+- **Phone Number:** +81 070 8411 0539
+- **Email:** yuxirainraver@gmail.org & rinshiona@aireya.org
 
 ## What Makes Me Tick 🚀
 
