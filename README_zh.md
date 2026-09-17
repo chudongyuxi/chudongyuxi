@@ -1,15 +1,15 @@
 ![awa](./IMG_20231128_170156.png)
-# 云梦official的GitHub之旅 ✨
+# 雨汐rainraver的GitHub之旅 ✨
 
-嘿！👋 我是云梦official，一位热爱编程的女性程序员，目前居住在上海这座充满活力的城市，准确来说是浦东新区。欢迎来到我的GitHub小屋，这里是创造力与代码的交汇之地！
+嘿！👋 我是雨汐rainraver，一位热爱编程的女性程序员，目前居住在上海这座充满活力的城市，准确来说是浦东新区。欢迎来到我的GitHub小屋，这里是创造力与代码的交汇之地！
 
 ## 关于我
 
-- **姓名：** 云梦official
+- **姓名：** 雨汐rainraver & 暮稚 Chloe Lily Mu & 星奈铃 RinShiona Xing & 月城心音 TsukishiroKokone
 - **性别：** 女孩子
-- **位置：** 中国，上海，浦东新区
 - **博客：** (https://blog.cichat.cn)
-- **邮箱：** rainraverofficial@chudongyuxi.cc
+- **手机号:** +81 070 8411 0539
+- **邮箱：** yuxirainraver@gmail.org & rinshiona@aireya.org
 
 ## 我的编程之旅 🚀
 
